@@ -22,6 +22,19 @@ Automatizar y validar las siguientes acciones clave:
 - 🧾 **Pytest-HTML** (para reportes detallados de ejecución)
 
 ---
-## 🖼️ Testeo de la aplicación
+
+## ⚙️ Instalación y ejecucion de las pruebas
+
+Instalá todas las librerías necesarias con el siguiente comando:
+
+**pip install selenium pytest webdriver-manager pytest-html** 
+
+Luego para correr los test y que te muestre el informe vervalizado
+
+**pytest -v**
+
+---
+
+# 🖼️ Testeo de la aplicación
 
 ![alt text](utils/image.png)
