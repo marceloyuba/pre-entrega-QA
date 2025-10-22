@@ -22,3 +22,6 @@ Automatizar y validar las siguientes acciones clave:
 - 🧾 **Pytest-HTML** (para reportes detallados de ejecución)
 
 ---
+## 🖼️ Testeo de la aplicación
+
+![alt text](utils/image.png)
